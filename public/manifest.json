@@ -1,0 +1,18 @@
+{
+  "name": "Imposter — Pass The Phone Game",
+  "short_name": "Imposter",
+  "description": "The ultimate pass-the-phone social deduction word game for one mobile phone.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#070a12",
+  "theme_color": "#070a12",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
